@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-Kalo ini submit, ran reset button. Kamu, bisa suvmit, kalo mo r3set, tekan aja
+Kalo ini submit, ran reset button. Kamu, bisa suvmit, kalo mo r3set, tekan aja biar
 ### `npm start`
 
 Runs the app in the development mode.\
